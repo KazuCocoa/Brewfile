@@ -52,6 +52,7 @@ brew gmp
 brew go
 brew gperftools
 brew graphicsmagick
+brew heroku
 brew highlight
 brew httpie
 brew icu4c
