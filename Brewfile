@@ -28,7 +28,6 @@ brew suite-sparse42-julia
 brew android-sdk
 brew ant
 brew app-engine-java
-brew app-engine-java-sdk
 brew autoconf
 brew automake
 brew boost
@@ -52,7 +51,7 @@ brew gmp
 brew go
 brew gperftools
 brew graphicsmagick
-brew heroku
+brew heroku-toolbelt
 brew highlight
 brew httpie
 brew icu4c
@@ -78,7 +77,6 @@ brew maven
 brew mpfr
 brew mysql
 brew nkf
-brew nvm
 brew openssl
 brew ossp-uuid
 brew pcre
@@ -108,28 +106,22 @@ brew yajl
 brew yash
 brew zeromq
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask webp-quicklook (!)
-
 # App Store applications
 appstore 1Password
+appstore Alfred
+appstore Dash
 appstore Evernote
-appstore GarageBand
-appstore iMovie
-appstore iPhoto
 appstore Keynote
+appstore Kindle
+appstore Kinoppy
 appstore Kobito
 appstore LINE
-appstore MindMaple
 appstore MindNode Pro
 appstore Numbers
 appstore OneDrive
 appstore Pages
 appstore Pocket
 appstore Pushbullet
-appstore Scapple
 appstore Simplenote
 appstore Skitch
 appstore Slack
