@@ -25,8 +25,6 @@ brew suite-sparse-julia
 brew suite-sparse42-julia
 
 # Other Homebrew packages
-brew android-sdk
-brew ant
 brew app-engine-java
 brew autoconf
 brew automake
