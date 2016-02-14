@@ -25,8 +25,6 @@ brew suite-sparse-julia
 brew suite-sparse42-julia
 
 # Other Homebrew packages
-brew android-sdk
-brew ant
 brew app-engine-java
 brew autoconf
 brew automake
@@ -88,7 +86,6 @@ brew postgresql
 brew protobuf
 brew pyenv
 brew pyenv-virtualenv
-brew python3
 brew rbenv
 brew readline
 brew redis
@@ -104,6 +101,7 @@ brew xcproj
 brew xz
 brew yajl
 brew yash
+brew yasm
 brew zeromq
 
 # App Store applications
