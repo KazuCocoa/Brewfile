@@ -86,6 +86,7 @@ brew postgresql
 brew protobuf
 brew pyenv
 brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
 brew rbenv
 brew readline
 brew redis
